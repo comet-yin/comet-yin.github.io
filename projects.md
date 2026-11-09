@@ -18,4 +18,10 @@ From scanning manuscripts to recognising handwriting and comparing different cop
 
 Who knows what I'll get curious about next?
 
+## 🛠️ Behind the Scenes
+
+This website is also a work in progress. If something looks a little strange, I'm probably still figuring out how to fix it.
+
+Consider it part of the charm. 😼
+
 [Back to the home page]({% link index.md %})
